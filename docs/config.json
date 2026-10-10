@@ -19,6 +19,10 @@
       "label": "Utilities",
       "children": [
         {
+          "label": "Oxfmt",
+          "to": "oxfmt"
+        },
+        {
           "label": "Oxlint",
           "to": "oxlint"
         },

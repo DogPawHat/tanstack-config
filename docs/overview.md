@@ -18,6 +18,7 @@ The following tools are required to use these packages:
 
 ## Utilities
 
+- [Oxfmt](./oxfmt.md)
 - [ESLint](./eslint.md)
 - [Oxlint](./oxlint.md)
 - [Publish](./publish.md)
